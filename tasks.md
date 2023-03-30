@@ -1,0 +1,23 @@
+- [ ] prvý preľad
+  - [ ] nejaké info 
+  - [ ] distribúcia dát
+- [ ] indikátory
+  - [x] Average Return
+  - [x] Variance of the Return
+  - [ ] Volatility
+  - [ ] Sharpe index or what
+  - [x] Outlieri
+  - [ ] PCA
+- [ ] odvetvia
+  - [x] mapovanie
+  - [ ] centralizácia
+  - [ ] seasonal decompose
+- [ ] clustering
+  - [ ] Avrg Var
+  - [ ] PCA
+  - [ ] podľa odvetví
+  - [ ] podľa rokov
+- [ ] korelácie
+  - [ ] 
+- [ ] predikcie: https://www.youtube.com/watch?v=MRm5sBfdBBQ&list=PLcFcktZ0wnNmOcf5qgqp29K4fiG3N8-ia
+  - [ ] linearna regresia
